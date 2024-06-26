@@ -6,10 +6,10 @@ Implementation of vital sorting techniques in Java
 
 1. Selection Sort:
    Selection sort is a simple and intuitive sorting algorithm that works as follows:
-   a. Find the minimum element in the unsorted portion of the array.
+   <li>a. Find the minimum element in the unsorted portion of the array.
    b. Swap it with the first element of the unsorted portion.
    c. Move the boundary of the sorted and unsorted portions one element to the right.
-   d. Repeat steps 1-3 until the array is sorted.
+   d. Repeat steps 1-3 until the array is sorted.</li>
 
    pseudo-code:
    function sortArr(arr)
